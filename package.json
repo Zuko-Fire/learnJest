@@ -7,5 +7,9 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "axios": "^1.8.3"
   }
 }
